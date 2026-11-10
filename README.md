@@ -3,15 +3,15 @@
 
 ## Repository Description
 
-This repository is used for our **EGR444 - Advanced Machine Learning** course, and is used to show our fellow peers something new that we think will be useful for them when working on their final projects. It uses Google Colab to ease the process of not having to configure this workshop on our own machine. It also reduces friction for issues that could potentially arise when cloning and setting up the repository on our local machines.
+This repository is used for our **EGR444 - Advanced Machine Learning** course, and is used to show our fellow peers something new that we think will be useful for them when working on their final projects. It uses Google Colab to ease the process of not having to configure this workshop on our own machine. It also helps reduce setup time and mitigate any potential issues that can arise when cloning and settuping up the repository on our local machines.
 
 ## Workshop Concept
 The purpose of this workshop is to use object detection annotations from COCO to demonstrate how automated testing can catch data errors before they affect a computer vision model. This ties into our final project using a robotic arm that relies on identifying objects and their locations to perform pick-and-place tasks. This will help us identify any errors in our data prior to us working with our computer vision model.\
 We will be using the COCO dataset as an example, and use our .ipynb file for our hands-on portion of the class to demonstrate and have everyone work through it together.
 
 ## Instructions
-1. Download the .ipybn file located in the Notebooks folder.
-2. Open file in your google drive account (Do not need to have pro version).
+1. Download the .ipynb file located in the Notebooks folder.
+2. Upload the file to your google drive (Do not need to have pro version).
 3. Go through steps as a group (or individually if doing this alone).
 
 ## Google Colab Trouble Shooting Tips
